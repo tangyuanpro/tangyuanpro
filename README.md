@@ -5,7 +5,7 @@
 
 ✨ 喜欢折腾，主要是网站和Alua
 
-✨ 我的[点这里踩进去！](https://yzsdcm.top)
+✨ 我的博客[点这里踩进去！](https://yzsdcm.top)
 <!--
 **tangyuanpro/tangyuanpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
